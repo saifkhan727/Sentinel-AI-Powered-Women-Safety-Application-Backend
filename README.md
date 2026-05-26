@@ -175,7 +175,7 @@ FIREBASE_SERVICE_ACCOUNT_PATH=./firebase-service-account.json
 **Saif Akhtar Khan**
 
 
-🔗 Flutter App Repo: https://github.com/saifkhan727/Sentinel-Frontend
+🔗 Flutter App Repo: https://github.com/saifkhan727/Sentinel-AI-Powered-Safety-Application-FRONTEND
 
 ---
 
